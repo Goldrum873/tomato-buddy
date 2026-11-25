@@ -8,7 +8,7 @@
 ## What it does
 
 - **One key per session** — see at a glance which session is working, which one is done, and which one is waiting for you.
-- **One press opens the right terminal** — even with several conversations in the same VS Code window.
+- **One press opens the right terminal** — even with several conversations in the same VS Code window (VS Code required).
 - **Smart ordering** — sessions waiting for you come first, then finished ones, oldest first.
 - **Plan usage** — 5-hour and weekly usage gauges.
 - **Sounds** — a soft chime when a session is done, a double ding when one needs you.
@@ -17,7 +17,7 @@
 
 - Windows 10 / 11
 - Stream Deck software 7.1 or later
-- Claude Code running in a terminal (VS Code, Cursor or Windsurf recommended)
+- Claude Code running in the VS Code integrated terminal
 
 ## Getting started
 
