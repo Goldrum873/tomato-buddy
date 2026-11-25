@@ -17,7 +17,7 @@
 
 - Windows 10 / 11
 - Stream Deck software 7.1 or later
-- Claude Code running in the VS Code integrated terminal
+- Claude Code running in a terminal — the VS Code integrated terminal is recommended (needed to open the exact terminal tab)
 
 ## Getting started
 
